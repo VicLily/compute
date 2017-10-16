@@ -58,6 +58,7 @@
 操作系统|Windows10 （64位）
 数据库|MySQL 5.7
 应用平台|Chrome/IE
+开发语言|Java
 开发环境|Eclipse
 
 ## 3、前提与假设：
@@ -65,8 +66,11 @@
     假设：目前数据库已经存在所有学生和教师的基本信息，并且教师所开设的课程是选课超过一定人数通过学校审批的课程。
 ## 4、界面原型设计：
   本页面只是用方框代替，具体页面展示还在设计中。
-
-
+![image](https://github.com/WHUSE2017/Java-Team/tree/master/document/image/1.png)
+<br>
+![image](https://github.com/WHUSE2017/Java-Team/tree/master/document/image/2.png)
+<br>
+![image](https://github.com/WHUSE2017/Java-Team/tree/master/document/image/3.png)
 ## 5、系统功能描述验收标准：
 ### 5.1 质量要求：
 用户标准：要界面简洁、易操作，系统稳定安全，满足基本需求。
